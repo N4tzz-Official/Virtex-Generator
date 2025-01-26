@@ -20,4 +20,4 @@ $ cd Virtex-Generator
 
 $ ls
 
-$ python3 Virtex.py
+$ python3 generate.py
